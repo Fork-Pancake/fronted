@@ -12,7 +12,8 @@
 /.next/
 /out/
 .idea/
-.deploy.sh
+
+deploy.sh
 passwd*.env
 
 # production
